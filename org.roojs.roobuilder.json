@@ -41,11 +41,7 @@
                     "url": "https://github.com/roojs/roobuilder.git",
                     "tag": "release-5.0.11",
                     "commit": "f1f01d604703aa7f4bf38a6c0735964e36e85667"
-                },
-                {
-                    "type": "patch",
-                    "path": "fix-appdata.patch"
-                }
+                } 
             ]
         }
     ]
